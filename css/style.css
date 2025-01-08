@@ -26,3 +26,9 @@ table td{
     background-color:cornflowerblue;
     padding: 5px 10px;  
 }
+.title{
+    margin-top: 20px;
+    padding: 10px;
+    border: 3px solid #000F00;
+    background-color: aliceblue;
+}
