@@ -12,6 +12,22 @@ h1.top-title{
  color: #000F00;
  background-color: #DDAABB;
 }
+.uols{
+  padding: 20px 0;
+  padding-left: 20px;
+  border-style: dashed;
+  border-color: cornflowerblue;
+  list-style-type: none; 
+  max-width: 500px;
+}
+.odls{
+  padding: 20px 0;
+  padding-left: 20px;
+  border-style: double;
+  border-color: green;
+  list-style-type: none; 
+  max-width: 500px;
+}
 table{
     background-color: bisque;
     padding: 10px;
