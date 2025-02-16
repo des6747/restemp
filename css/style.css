@@ -47,3 +47,8 @@ table td{
     border: 3px solid #000F00;
     background-color: aliceblue;
 }
+
+footer{
+    padding: 10px;
+    background-color: skyblue;
+}
